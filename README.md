@@ -1,16 +1,13 @@
 # todo_with_hive
 
-A new Flutter project.
+# Описание проекта
 
-## Getting Started
+**Обучающий проект записной книжки с использованием хранилища Hive, создавался для практики и подробного знакомства с этой библиотекой. Фрэймворк Flutter.**
 
-This project is a starting point for a Flutter application.
+|            Стартовый экран             |            Создание записи            |             Список задач             | 
+|:--------------------------------------:|:-------------------------------------:|:------------------------------------:|
+| ![](./preview_images/start_screen.png) | ![](./preview_images/create_note.png) | ![](./preview_images/list_notes.png) | 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|          Выполненые задачи           |            Удаление задачи            |     |
+|:------------------------------------:|:-------------------------------------:|:---:|
+| ![](./preview_images/done_notes.png) | ![](./preview_images/delete_note.png) |     |
